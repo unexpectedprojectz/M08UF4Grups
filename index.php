@@ -9,14 +9,14 @@
 
     <body>
         <?php
-        function AJC_funcio1() {
-            echo "Prueba 1";
+        function AAH_funcio1() {
+            echo "Programador 2";
         }
-        function AJC_funcio2() {
-            echo "Prueba 2";
+        function AAH_funcio2() {
+            echo "Programador 2";
         }
-        function AJC_funcio3() {
-            echo "Prueba 3";
+        function AAH_funcio3() {
+            echo "Programador 2";
         }
         ?>
     </body>
